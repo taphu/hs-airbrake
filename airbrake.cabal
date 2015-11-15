@@ -1,5 +1,5 @@
 name:                airbrake
-version:             0.2.0.0
+version:             0.2.0.1
 synopsis:            An Airbrake notifier for Haskell
 description:         Airbrake notifier.
 homepage:            https://github.com/joelteon/airbrake
